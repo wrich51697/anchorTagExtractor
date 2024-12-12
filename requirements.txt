@@ -1,0 +1,10 @@
+# Built-in Python libraries (no need to install separately)
+datetime
+os
+sqlite3
+tkinter
+
+# External libraries (require installation)
+requests~=2.32.3    # HTTP library for fetching web pages
+Markdown~=3.7       # Library for rendering Markdown to HTML
+tkinterweb~=3.24.7  # For displaying HTML content in the GUI
